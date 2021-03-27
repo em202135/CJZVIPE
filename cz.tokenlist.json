@@ -1,0 +1,28 @@
+{
+  "name": "CZ",
+  "logoURI": "https://z3.ax1x.com/2021/03/27/cSnIL6.jpg",
+  "keywords": [
+    "audited",
+    "verified",
+    "special tokens"
+  ],
+  "timestamp": "2020-06-12T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xDCa8738CF677CD25f0aeE853982E4dbc70EF8ACd",
+      "symbol": "CZ",
+      "name": "CJZVIPE",
+      "decimals": 18,
+      "logoURI": "https://z3.ax1x.com/2021/03/27/cSnIL6.jpg",
+      "tags": [
+        "stablecoin"
+      ]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
